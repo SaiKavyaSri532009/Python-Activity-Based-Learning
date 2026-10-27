@@ -21,5 +21,5 @@
  Campus Event Seating and Entry Validation: Generate seating assignments from nested lists, validate tickets against registration identifiers, detect duplicate entries, and report available seating capacity.  
  **Case-Study-9:**  
   Repeated Transaction Detection: Process transaction identifiers and amounts in a list, detect duplicate transactions, identify threshold violations, and generate a list of suspicious entries.  
- **Case-Study-10:** 
+ **Case-Study-10:**   
   University Scholarship Allocation: Design a system that evaluates applicants using aggregate marks, subject-wise minimum scores, attendance, and income criteria, ranks eligible students, and resolves ties using predefined rules.
